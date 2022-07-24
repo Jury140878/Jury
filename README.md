@@ -1,0 +1,2 @@
+# Jury
+Creazione gestionalea
